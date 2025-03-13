@@ -27,64 +27,64 @@ const Hero = (props) => {
           <div className="thq-animated-group-horizontal">
             <img
               alt={props.image1Alt}
-              src="/slider-asstes/laptop-2620118_1920.jpg"
+              src="/codecraftacademymd/slider-asstes/laptop-2620118_1920.jpg"
               className="hero-placeholder-image10 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image2Alt}
-              src="/slider-asstes/technology-1283624_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/technology-1283624_1280.jpg"
               className="hero-placeholder-image11 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image3Alt}
-              src="/slider-asstes/source-4280758_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/source-4280758_1280.jpg"
               className="hero-placeholder-image12 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image4Alt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="hero-placeholder-image13 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image5Alt}
-              src="/slider-asstes/manhattan-3866140_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/manhattan-3866140_1280.jpg"
               className="hero-placeholder-image14 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image6Alt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="hero-placeholder-image15 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
           <div className="thq-animated-group-horizontal">
           <img
               alt={props.image1Alt}
-              src="/slider-asstes/laptop-2620118_1920.jpg"
+              src="/codecraftacademymd/slider-asstes/laptop-2620118_1920.jpg"
               className="hero-placeholder-image10 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image2Alt}
-              src="/slider-asstes/technology-1283624_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/technology-1283624_1280.jpg"
               className="hero-placeholder-image11 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image3Alt}
-              src="/slider-asstes/source-4280758_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/source-4280758_1280.jpg"
               className="hero-placeholder-image12 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image4Alt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="hero-placeholder-image13 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image5Alt}
-              src="/slider-asstes/manhattan-3866140_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/manhattan-3866140_1280.jpg"
               className="hero-placeholder-image14 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image6Alt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="hero-placeholder-image15 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
@@ -93,64 +93,64 @@ const Hero = (props) => {
           <div className="thq-animated-group-horizontal-reverse">
           <img
               alt={props.image1Alt}
-              src="/slider-asstes/laptop-2620118_1920.jpg"
+              src="/codecraftacademymd/other-images/courses/3463986.jpg"
               className="hero-placeholder-image10 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image2Alt}
-              src="/slider-asstes/technology-1283624_1280.jpg"
+              src="/codecraftacademymd/other-images/courses/20945836.jpg"
               className="hero-placeholder-image11 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image3Alt}
-              src="/slider-asstes/source-4280758_1280.jpg"
+              src="/codecraftacademymd/other-images/courses/7903569.jpg"
               className="hero-placeholder-image12 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image4Alt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="hero-placeholder-image13 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image5Alt}
-              src="/slider-asstes/manhattan-3866140_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/manhattan-3866140_1280.jpg"
               className="hero-placeholder-image14 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image6Alt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="hero-placeholder-image15 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
           <div className="thq-animated-group-horizontal-reverse">
           <img
               alt={props.image1Alt}
-              src="/slider-asstes/laptop-2620118_1920.jpg"
+              src="/codecraftacademymd/slider-asstes/laptop-2620118_1920.jpg"
               className="hero-placeholder-image10 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image2Alt}
-              src="/slider-asstes/technology-1283624_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/technology-1283624_1280.jpg"
               className="hero-placeholder-image11 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image3Alt}
-              src="/slider-asstes/source-4280758_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/source-4280758_1280.jpg"
               className="hero-placeholder-image12 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image4Alt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="hero-placeholder-image13 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image5Alt}
-              src="/slider-asstes/manhattan-3866140_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/manhattan-3866140_1280.jpg"
               className="hero-placeholder-image14 thq-img-scale thq-img-ratio-1-1"
             />
             <img
               alt={props.image6Alt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="hero-placeholder-image15 thq-img-scale thq-img-ratio-1-1"
             />
           </div>
@@ -167,7 +167,7 @@ const Hero = (props) => {
     to {
       transform: translateX(calc(-100% - 16px));
     }
-  }
+  }jpg
 
   @keyframes scroll-y {
     from {

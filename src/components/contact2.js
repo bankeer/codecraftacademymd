@@ -31,12 +31,12 @@ const Contact2 = (props) => {
         </div>
         <img
           alt={props.imageAlt}
-          src="/other-images/contactus/envelopes-6919301_1920.jpg"
+          src="/codecraftacademymd/other-images/contactus/envelopes-6919301_1920.jpg"
           className="thq-img-ratio-16-9"
         />
         <div className="contact2-row">
           <div className="contact2-content2">
-            <img src='/other-images/logo/icons8-email.gif'/>
+            <img src='/codecraftacademymd/other-images/logo/icons8-email.gif'/>
             <div className="contact2-contact-info1">
               <div className="contact2-content3">
                 <h3 className="contact2-text13 thq-heading-3">Email</h3>
@@ -62,7 +62,7 @@ const Contact2 = (props) => {
             </div>
           </div>
           <div className="contact2-content4">
-            <img src='/other-images/logo/icons8-whatsapp.gif'></img>
+            <img src='/codecraftacademymd/other-images/logo/icons8-whatsapp.gif'></img>
             <div className="contact2-contact-info2">
               <div className="contact2-content5">
                 <h3 className="contact2-text15 thq-heading-3">WhatsApp</h3>
@@ -86,7 +86,7 @@ const Contact2 = (props) => {
             </div>
           </div>
           <div className="contact2-content6">
-           <img src='/other-images/logo/icons8-skype.gif'></img>
+           <img src='/codecraftacademymd/other-images/logo/icons8-skype.gif'></img>
             <div className="contact2-contact-info3">
               <div className="contact2-content7">
                 <h3 className="contact2-text17 thq-heading-3">Skype</h3>

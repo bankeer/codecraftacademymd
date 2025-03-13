@@ -19,7 +19,7 @@ const Contact = (props) => {
         </div>
         <div className="contact-row">
           <div className="contact-content2">
-            <img src='/other-images/logo/icons8-email.gif'/>
+            <img src='/codecraftacademymd/other-images/logo/icons8-email.gif'/>
             <div className="contact-contact-info1">
               <div className="contact-content3">
                 <h3 className="contact-text4 thq-heading-3">Email</h3>
@@ -31,7 +31,7 @@ const Contact = (props) => {
             </div>
           </div>
           <div className="contact-content4">
-            <img src='/other-images/logo/icons8-whatsapp.gif' className="thq-icon-medium"/>
+            <img src='/codecraftacademymd/other-images/logo/icons8-whatsapp.gif' className="thq-icon-medium"/>
             <div className="contact-contact-info2">
               <div className="contact-content5">
                 <h3 className="contact-text6 thq-heading-3">WhatsApp</h3>
@@ -41,7 +41,7 @@ const Contact = (props) => {
             </div>
           </div>
           <div className="contact-content6">
-            <img src='/other-images/logo/icons8-skype.gif'/>
+            <img src='/codecraftacademymd/other-images/logo/icons8-skype.gif'/>
             <div className="contact-contact-info3">
               <div className="contact-content7">
                 <h3 className="contact-text8 thq-heading-3">Skype</h3>

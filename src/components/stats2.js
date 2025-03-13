@@ -11,7 +11,7 @@ const Stats2 = (props) => {
         <div className="stats2-container2 thq-flex-column">
           <img
             alt={props.image1Alt}
-            src="/other-images/contactus/student-849821_1920.jpg"
+            src="/codecraftacademymd/other-images/contactus/student-849821_1920.jpg"
             className="thq-img-ratio-1-1 stats2-image"
           />
         </div>

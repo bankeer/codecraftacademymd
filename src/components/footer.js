@@ -13,10 +13,10 @@ const Footer = (props) => {
           <div className="footer-newsletter">
             <img
               alt={props.logoAlt}
-              src="/other-images/logo/new-logo.png"
+              src="/codecraftacademymd/other-images/logo/new-logo.png"
               className="footer-image1"
             />
-            <span className="thq-body-small">
+            <span className="thq-body-small"> 
                 {t.footer.content1}
             </span>
             <div className="footer-actions">
@@ -95,9 +95,9 @@ const Footer = (props) => {
                 <strong className="thq-body-large footer-column2-title">
                   {t.footer.weAccept}
                 </strong>
-              <img src="/other-images/logo/payment-logo/visa.svg"></img>
-              <img src="/other-images/logo/payment-logo/mastercard.svg"></img>
-              <img src="/other-images/logo/payment-logo/paynet.svg"></img>
+              <img src="/codecraftacademymd/other-images/logo/payment-logo/visa.svg"></img>
+              <img src="/codecraftacademymd/other-images/logo/payment-logo/mastercard.svg"></img>
+              <img src="/codecraftacademymd/other-images/logo/payment-logo/paynet.svg"></img>
               </div>
                            
             </div>

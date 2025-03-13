@@ -64,21 +64,21 @@ const Features2 = (props) => {
           {activeTab === 0 && (
             <img
               alt={props.feature1ImgAlt}
-              src="/other-images/programmer-1653351_1920.png"
+              src="/codecraftacademymd/other-images/programmer-1653351_1920.png"
               className="features2-image1 thq-img-ratio-16-9"
             />
           )}
           {activeTab === 1 && (
             <img
               alt={props.feature2ImgAlt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="features2-image2 thq-img-ratio-16-9"
             />
           )}
           {activeTab === 2 && (
             <img
               alt={props.feature3ImgAlt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="features2-image3 thq-img-ratio-16-9"
             />
           )}

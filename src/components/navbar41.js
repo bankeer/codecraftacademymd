@@ -14,7 +14,7 @@ const Navbar41 = (props) => {
         <a href='/'>
         <img
           alt={props.logoAlt}
-          src="/other-images/logo/new-logo.png"
+          src="/codecraftacademymd/other-images/logo/new-logo.png"
           className="navbar41-image1"
         />
         </a>
