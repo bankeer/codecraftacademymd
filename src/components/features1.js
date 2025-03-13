@@ -15,21 +15,21 @@ const Features1 = (props) => {
           {activeTab === 0 && (
             <img
               alt={props.feature1ImgAlt}
-              src="/other-images/laptop-2557466_1920.jpg"
+              src="/codecraftacademymd/other-images/laptop-2557466_1920.jpg"
               className="thq-img-ratio-1-1 stats2-image"
             />
           )}
           {activeTab === 1 && (
             <img
               alt={props.feature2ImgAlt}
-              src="/other-images/programmer-1653351_1920.png"
+              src="/codecraftacademymd/other-images/programmer-1653351_1920.png"
               className="thq-img-ratio-1-1 stats2-image"
             />
           )}
           {activeTab === 2 && (
             <img
               alt={props.feature2ImgAlt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="thq-img-ratio-1-1 stats2-image"
             />
           )}

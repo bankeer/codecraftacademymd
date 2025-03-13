@@ -34,11 +34,11 @@ const Features2 = (props) => {
             <div className="features2-content2">
               <h2 className="thq-heading-2">{t.features2.proHighlights}</h2>
               <span className="thq-body-small">
-                {t.pricing.features.accessLessons}<br/>
-                {t.pricing.features.liveSession}<br/>
-                {t.pricing.features.mockInterviews}<br/>
-                {t.pricing.features.cvAssistance}<br/>
-                {t.pricing.features.individualPlan}
+                1. {t.pricing.features.accessLessons}<br/>
+                2. {t.pricing.features.liveSession}<br/>
+                3. {t.pricing.features.mockInterviews}<br/>
+                4. {t.pricing.features.cvAssistance}<br/>
+                5. {t.pricing.features.individualPlan}
               </span>
             </div>
           </div>
@@ -52,10 +52,7 @@ const Features2 = (props) => {
             <div className="features2-content3">
               <h2 className="thq-heading-2">{t.features2.standardHighlights}</h2>
               <span className="thq-body-small">
-                {t.pricing.features.accessLessons}<br/>
-                {t.pricing.features.practicalExercises}<br/>
-                {t.pricing.features.materials}<br/>
-                {t.pricing.features.practice}
+                {t.features2.duration}<br/>
               </span>
             </div>
           </div>
@@ -64,21 +61,21 @@ const Features2 = (props) => {
           {activeTab === 0 && (
             <img
               alt={props.feature1ImgAlt}
-              src="/other-images/programmer-1653351_1920.png"
+              src="/codecraftacademymd/slider-asstes/laptop-2620118_1920.jpg"
               className="features2-image1 thq-img-ratio-16-9"
             />
           )}
           {activeTab === 1 && (
             <img
               alt={props.feature2ImgAlt}
-              src="/slider-asstes/engineer-4904884_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/engineer-4904884_1280.jpg"
               className="features2-image2 thq-img-ratio-16-9"
             />
           )}
           {activeTab === 2 && (
             <img
               alt={props.feature3ImgAlt}
-              src="/slider-asstes/ai-generated-8237711_1280.jpg"
+              src="/codecraftacademymd/slider-asstes/ai-generated-8237711_1280.jpg"
               className="features2-image3 thq-img-ratio-16-9"
             />
           )}
